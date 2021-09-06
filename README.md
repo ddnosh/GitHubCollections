@@ -1,145 +1,82 @@
-# Architecture-And-Skills
+# GitHubCollections
+GitHub上优秀的综合项目集合  
+
 欢迎加入QQ群：
 <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=5867e988b85eecbb8c50bedab9810624fc017ce71098ae9394e7c935a4125281"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="Android开发技术交流" title="Android开发技术交流"></a>
 
-﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋﹏﹋<br>
-【编号】 NO.20<br>
-【项目】 awesome-android-kotlin-apps<br>
-【地址】 https://github.com/androiddevnotes/awesome-android-kotlin-apps<br>
-【简介】<br>
-👓 A curated list of awesome android kotlin apps by open-source contributors.<br>
-╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+# 目录
+- [综合](#all)
+- [Architecture](#architecture)
+- [Android](#android)
+- [前端](#frontend)
+- [后台](#backend)
+- [Java](#java)
+- [数据库](#database)
+- [算法](#algorithm)
+- [面试](#interview)
 
-【编号】 NO.19<br>
-【项目】 leetcode<br>
-【地址】 https://github.com/azl397985856/leetcode<br>
-【简介】<br>
-LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)<br>
-╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+<div id="all">综合</div>
 
-【编号】 NO.18<br>
-【项目】 interview_internal_reference<br>
-【地址】 https://github.com/0voice/interview_internal_reference<br>
-【简介】<br>
-2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。<br>
-╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+库名 | 简述 | Stars
+---- | ----- | ---
+[awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | ![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome.svg)
+[hello-algorithm](https://github.com/geekxh/hello-algorithm) | 🌍 针对小白的算法训练， 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总， 附：1、千本开源电子书 2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~） | ![GitHub stars](https://img.shields.io/github/stars/geekxh/hello-algorithm.svg)
+[skill-map](https://github.com/TeamStuQ/skill-map) | 程序员技能图谱 | ![GitHub stars](https://img.shields.io/github/stars/TeamStuQ/skill-map.svg)
 
-【编号】 NO.17<br>
-【项目】 awesome<br>
-【地址】 https://github.com/sindresorhus/awesome<br>
-【简介】<br>
-😎 Awesome lists about all kinds of interesting topics<br>
-╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+<div id="architecture">Architecture</div>
 
-【编号】 NO.16<br>
-【项目】 awesome-database-learning<br>
-【地址】 https://github.com/pingcap/awesome-database-learning<br>
-【简介】<br>
-A list of learning materials to understand databases internals<br>
-╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+库名 | 简述 | Stars
+---- | ----- | ---
+[InternetArchitect](https://github.com/bjmashibing/InternetArchitect) | 年薪百万互联网架构师课程文档及源码(公开部分) | ![GitHub stars](https://img.shields.io/github/stars/bjmashibing/InternetArchitect.svg)
+[awesome-architecture](https://github.com/toutiaoio/awesome-architecture) | 架构师技术图谱，助你早日成为架构师 | ![GitHub stars](https://img.shields.io/github/stars/toutiaoio/awesome-architecture.svg)
+[system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. | ![GitHub stars](https://img.shields.io/github/stars/donnemartin/system-design-primer.svg)
 
-【编号】 NO.15<br>
-【项目】 toBeTopJavaer<br>
-【地址】 https://github.com/hollischuang/toBeTopJavaer<br>
-【简介】<br>
-To Be Top Javaer - Java工程师成神之路<br>
-╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+<div id="android">Android</div>
 
-【编号】 NO.14<br>
-【项目】 Java-Tutorial<br>
-【地址】 https://github.com/h2pl/Java-Tutorial<br>
-【简介】<br>
-【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章，力求打造为最完整最实用的Java开发者学习指南，如果对你有帮助，给个star告诉我吧，谢谢！<br>
-╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+库名 | 简述 | Stars
+---- | ----- | ---
+[awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) | 👓 A curated list of awesome android kotlin apps by open-source contributors. | ![GitHub stars](https://img.shields.io/github/stars/androiddevnotes/awesome-android-kotlin-apps.svg)
+[awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) | A curated list of awesome Android UI/UX libraries | ![GitHub stars](https://img.shields.io/github/stars/wasabeef/awesome-android-ui.svg)
+[Android 性能优化必知必会](https://androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools) | Android 性能优化必知必会 | 
 
-【编号】 NO.13<br>
-【项目】 awesome-android-ui<br>
-【地址】 https://github.com/wasabeef/awesome-android-ui<br>
-【简介】<br>
-A curated list of awesome Android UI/UX libraries<br>
-╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+<div id="frontend">前端</div>
 
-【编号】 NO.12<br>
-【项目】 InternetArchitect<br>
-【地址】 https://github.com/bjmashibing/InternetArchitect<br>
-【简介】<br>
-年薪百万互联网架构师课程文档及源码(公开部分)<br>
-╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+库名 | 简述 | Stars
+---- | ----- | ---
+[xw332.github.io/wiki](https://github.com/xw332/xw332.github.io/wiki) | 前端开发文章大集合 | ![GitHub stars](https://img.shields.io/github/stars/xw332/xw332.github.io.svg)
 
-【编号】 NO.11<br>
-【项目】 前端开发思考录集锦<br>
-【地址】 https://github.com/xw332/xw332.github.io/wiki<br>
-【简介】<br>
-前端开发文章大集合<br>
-╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+<div id="backend">后台</div>
 
-【编号】 NO.10<br>
-【项目】 Android 性能优化必知必会<br>
-【地址】 https://androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools/<br>
-【简介】<br>
-Android 性能优化必知必会<br>
-╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+库名 | 简述 | Stars
+---- | ----- | ---
+[free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | ![GitHub stars](https://img.shields.io/github/stars/ripienaar/free-for-dev.svg)
+[architect-awesome](https://github.com/xingshaocheng/architect-awesome) | 后端架构师技术图谱 | ![GitHub stars](https://img.shields.io/github/stars/xingshaocheng/architect-awesome.svg)
 
-【编号】 NO.9<br>
-【项目】 awesome-architecture<br>
-【地址】 https://github.com/toutiaoio/awesome-architecture<br>
-【简介】<br>
-架构师技术图谱，助你早日成为架构师<br>
-╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+<div id="java">Java</div>
 
-【编号】 NO.8<br>
-【项目】 hello-algorithm<br>
-【地址】 https://github.com/geekxh/hello-algorithm<br>
-【简介】<br>
-:earth_africa: 东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题<br>
-╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+库名 | 简述 | Stars
+---- | ----- | ---
+[toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) | To Be Top Javaer - Java工程师成神之路 | ![GitHub stars](https://img.shields.io/github/stars/hollischuang/toBeTopJavaer.svg)
+[Java-Tutorial](https://github.com/h2pl/Java-Tutorial) | 【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章，力求打造为最完整最实用的Java开发者学习指南，如果对你有帮助，给个star告诉我吧，谢谢！ | ![GitHub stars](https://img.shields.io/github/stars/h2pl/Java-Tutorial.svg)
+[java-design-patterns](https://github.com/iluwatar/java-design-patterns) | Design patterns implemented in Java | ![GitHub stars](https://img.shields.io/github/stars/iluwatar/java-design-patterns.svg)
+[advanced-java](https://github.com/doocs/advanced-java) | :open_mouth: 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习 | ![GitHub stars](https://img.shields.io/github/stars/doocs/advanced-java.svg)
+[technology-talk](https://github.com/aalansehaiyang/technology-talk) | 汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识 | ![GitHub stars](https://img.shields.io/github/stars/aalansehaiyang/technology-talk.svg)
 
-【编号】 NO.7<br>
-【项目】 free-for-dev<br>
-【地址】 https://github.com/ripienaar/free-for-dev<br>
-【简介】<br>
-A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev<br>
-╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+<div id="database">数据库</div>
 
-【编号】 NO.6<br>
-【项目】 system-design-primer<br>
-【地址】 https://github.com/donnemartin/system-design-primer<br>
-【简介】<br>
-Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.<br>
-╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+库名 | 简述 | Stars
+---- | ----- | ---
+[awesome-database-learning](https://github.com/pingcap/awesome-database-learning) | A list of learning materials to understand databases internals | ![GitHub stars](https://img.shields.io/github/stars/pingcap/awesome-database-learning.svg)
 
-【编号】 NO.5<br>
-【项目】 java-design-patterns<br>
-【地址】 https://github.com/iluwatar/java-design-patterns<br>
-【简介】<br>
-Design patterns implemented in Java<br>
-╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+<div id="algorithm">算法</div>
 
-【编号】 NO.4<br>
-【项目】 advanced-java<br>
-【地址】 https://github.com/doocs/advanced-java<br>
-【简介】<br>
-:open_mouth: 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习<br>
-╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+库名 | 简述 | Stars
+---- | ----- | ---
+[leetcode](https://github.com/azl397985856/leetcode) | LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) | ![GitHub stars](https://img.shields.io/github/stars/azl397985856/leetcode.svg)
 
-【编号】 NO.3<br>
-【项目】 architect-awesome<br>
-【地址】 https://github.com/xingshaocheng/architect-awesome<br>
+<div id="interview">面试</div>
 
-【简介】<br>
-后端架构师技术图谱<br>
-╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
+库名 | 简述 | Stars
+---- | ----- | ---
+[interview_internal_reference](https://github.com/0voice/interview_internal_reference) | 2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。 | ![GitHub stars](https://img.shields.io/github/stars/0voice/interview_internal_reference.svg)
 
-【编号】 NO.2<br>
-【项目】 technology-talk<br>
-【地址】 https://github.com/aalansehaiyang/technology-talk<br>
-【简介】<br>
-汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识<br>
-╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>
-
-【编号】 NO.1<br>
-【项目】 skill-map<br>
-【地址】 https://github.com/TeamStuQ/skill-map<br>
-【简介】<br>
-程序员技能图谱<br>
-╰●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●╯<br>

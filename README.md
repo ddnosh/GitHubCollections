@@ -6,14 +6,14 @@ GitHub上优秀的综合项目集合
 
 # 目录
 - [综合](#综合)
-- [Architecture](#architecture)
-- [Android](#android)
-- [前端](#frontend)
-- [后台](#backend)
+- [Architecture](#Architecture)
+- [Android](#Android)
+- [前端](#前端)
+- [后台](#后台)
 - [Java](#java)
-- [数据库](#database)
-- [算法](#algorithm)
-- [面试](#interview)
+- [数据库](#数据库)
+- [算法](#算法)
+- [面试](#面试)
 
 ### 综合
 
@@ -23,7 +23,7 @@ GitHub上优秀的综合项目集合
 [hello-algorithm](https://github.com/geekxh/hello-algorithm) | 🌍 针对小白的算法训练， 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总， 附：1、千本开源电子书 2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~） | ![GitHub stars](https://img.shields.io/github/stars/geekxh/hello-algorithm.svg)
 [skill-map](https://github.com/TeamStuQ/skill-map) | 程序员技能图谱 | ![GitHub stars](https://img.shields.io/github/stars/TeamStuQ/skill-map.svg)
 
-### >Architecture
+### Architecture
 
 库名 | 简述 | Stars
 ---- | ----- | ---
@@ -31,7 +31,7 @@ GitHub上优秀的综合项目集合
 [awesome-architecture](https://github.com/toutiaoio/awesome-architecture) | 架构师技术图谱，助你早日成为架构师 | ![GitHub stars](https://img.shields.io/github/stars/toutiaoio/awesome-architecture.svg)
 [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. | ![GitHub stars](https://img.shields.io/github/stars/donnemartin/system-design-primer.svg)
 
-<div id="android">Android</div>
+### Android
 
 库名 | 简述 | Stars
 ---- | ----- | ---
@@ -39,20 +39,20 @@ GitHub上优秀的综合项目集合
 [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) | A curated list of awesome Android UI/UX libraries | ![GitHub stars](https://img.shields.io/github/stars/wasabeef/awesome-android-ui.svg)
 [Android 性能优化必知必会](https://androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools) | Android 性能优化必知必会 | 
 
-<div id="frontend">前端</div>
+### 前端
 
 库名 | 简述 | Stars
 ---- | ----- | ---
 [xw332.github.io/wiki](https://github.com/xw332/xw332.github.io/wiki) | 前端开发文章大集合 | ![GitHub stars](https://img.shields.io/github/stars/xw332/xw332.github.io.svg)
 
-<div id="backend">后台</div>
+### 后台
 
 库名 | 简述 | Stars
 ---- | ----- | ---
 [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | ![GitHub stars](https://img.shields.io/github/stars/ripienaar/free-for-dev.svg)
 [architect-awesome](https://github.com/xingshaocheng/architect-awesome) | 后端架构师技术图谱 | ![GitHub stars](https://img.shields.io/github/stars/xingshaocheng/architect-awesome.svg)
 
-<div id="java">Java</div>
+### Java
 
 库名 | 简述 | Stars
 ---- | ----- | ---
@@ -62,19 +62,19 @@ GitHub上优秀的综合项目集合
 [advanced-java](https://github.com/doocs/advanced-java) | :open_mouth: 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习 | ![GitHub stars](https://img.shields.io/github/stars/doocs/advanced-java.svg)
 [technology-talk](https://github.com/aalansehaiyang/technology-talk) | 汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识 | ![GitHub stars](https://img.shields.io/github/stars/aalansehaiyang/technology-talk.svg)
 
-<div id="database">数据库</div>
+### 数据库
 
 库名 | 简述 | Stars
 ---- | ----- | ---
 [awesome-database-learning](https://github.com/pingcap/awesome-database-learning) | A list of learning materials to understand databases internals | ![GitHub stars](https://img.shields.io/github/stars/pingcap/awesome-database-learning.svg)
 
-<div id="algorithm">算法</div>
+### 算法
 
 库名 | 简述 | Stars
 ---- | ----- | ---
 [leetcode](https://github.com/azl397985856/leetcode) | LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) | ![GitHub stars](https://img.shields.io/github/stars/azl397985856/leetcode.svg)
 
-<div id="interview">面试</div>
+### 面试
 
 库名 | 简述 | Stars
 ---- | ----- | ---

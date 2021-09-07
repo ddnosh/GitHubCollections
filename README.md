@@ -37,6 +37,7 @@ GitHub优秀项目搜集(集合版)，长期更新
 
 库名 | 简述 | Stars
 ---- | ----- | ---
+[awesome-github-android-ui](https://github.com/opendigg/awesome-github-android-ui) | 安卓UI相关开源项目库汇总 | ![GitHub stars](https://img.shields.io/github/stars/opendigg/awesome-github-android-ui.svg)
 [Useful-Open-Source-Android](https://github.com/ddwhan0123/Useful-Open-Source-Android) | 造福大家，0广告，收集归纳 | ![GitHub stars](https://img.shields.io/github/stars/ddwhan0123/Useful-Open-Source-Android.svg)
 [awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) | 👓 A curated list of awesome android kotlin apps by open-source contributors. | ![GitHub stars](https://img.shields.io/github/stars/androiddevnotes/awesome-android-kotlin-apps.svg)
 [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) | A curated list of awesome Android UI/UX libraries | ![GitHub stars](https://img.shields.io/github/stars/wasabeef/awesome-android-ui.svg)

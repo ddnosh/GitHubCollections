@@ -14,6 +14,7 @@ GitHub优秀项目搜集(集合版)，长期更新
 - [数据库](#数据库)
 - [算法](#算法)
 - [面试](#面试)
+- [Weekly](#Weekly)
 
 ### 综合
 
@@ -83,4 +84,11 @@ GitHub优秀项目搜集(集合版)，长期更新
 库名 | 简述 | Stars
 ---- | ----- | ---
 [interview_internal_reference](https://github.com/0voice/interview_internal_reference) | 2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。 | ![GitHub stars](https://img.shields.io/github/stars/0voice/interview_internal_reference.svg)
+
+### Weekly
+
+库名 | 简述 | Stars
+---- | ----- | ---
+[awesome-weekly](https://github.com/jondot/awesome-weekly) | An "awesome" type curated list of quality weekly subscription newsletters from the software world | ![GitHub stars](https://img.shields.io/github/stars/jondot/awesome-weekly.svg)
+[weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 | ![GitHub stars](https://img.shields.io/github/stars/ruanyf/weekly.svg)
 

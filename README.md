@@ -19,6 +19,7 @@ GitHub优秀项目搜集(集合版)，长期更新
 
 库名 | 简述 | Stars
 ---- | ----- | ---
+[GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注 | ![GitHub stars](https://img.shields.io/github/stars/kon9chunkit/GitHub-Chinese-Top-Charts.svg)
 [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | ![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome.svg)
 [hello-algorithm](https://github.com/geekxh/hello-algorithm) | 🌍 针对小白的算法训练， 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总， 附：1、千本开源电子书 2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~） | ![GitHub stars](https://img.shields.io/github/stars/geekxh/hello-algorithm.svg)
 [skill-map](https://github.com/TeamStuQ/skill-map) | 程序员技能图谱 | ![GitHub stars](https://img.shields.io/github/stars/TeamStuQ/skill-map.svg)

@@ -6,6 +6,7 @@ GitHub优秀项目搜集(集合版)，长期更新
 
 # 目录
 - [综合](#综合)
+- [Weekly](#Weekly)
 - [Architecture](#Architecture)
 - [Android](#Android)
 - [前端](#前端)
@@ -14,7 +15,6 @@ GitHub优秀项目搜集(集合版)，长期更新
 - [数据库](#数据库)
 - [算法](#算法)
 - [面试](#面试)
-- [Weekly](#Weekly)
 
 ### 综合
 
@@ -25,6 +25,13 @@ GitHub优秀项目搜集(集合版)，长期更新
 [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | ![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome.svg)
 [hello-algorithm](https://github.com/geekxh/hello-algorithm) | 🌍 针对小白的算法训练， 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总， 附：1、千本开源电子书 2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~） | ![GitHub stars](https://img.shields.io/github/stars/geekxh/hello-algorithm.svg)
 [skill-map](https://github.com/TeamStuQ/skill-map) | 程序员技能图谱 | ![GitHub stars](https://img.shields.io/github/stars/TeamStuQ/skill-map.svg)
+
+### Weekly
+
+库名 | 简述 | Stars
+---- | ----- | ---
+[awesome-weekly](https://github.com/jondot/awesome-weekly) | An "awesome" type curated list of quality weekly subscription newsletters from the software world | ![GitHub stars](https://img.shields.io/github/stars/jondot/awesome-weekly.svg)
+[weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 | ![GitHub stars](https://img.shields.io/github/stars/ruanyf/weekly.svg)
 
 ### Architecture
 
@@ -84,11 +91,4 @@ GitHub优秀项目搜集(集合版)，长期更新
 库名 | 简述 | Stars
 ---- | ----- | ---
 [interview_internal_reference](https://github.com/0voice/interview_internal_reference) | 2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。 | ![GitHub stars](https://img.shields.io/github/stars/0voice/interview_internal_reference.svg)
-
-### Weekly
-
-库名 | 简述 | Stars
----- | ----- | ---
-[awesome-weekly](https://github.com/jondot/awesome-weekly) | An "awesome" type curated list of quality weekly subscription newsletters from the software world | ![GitHub stars](https://img.shields.io/github/stars/jondot/awesome-weekly.svg)
-[weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 | ![GitHub stars](https://img.shields.io/github/stars/ruanyf/weekly.svg)
 

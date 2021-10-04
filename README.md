@@ -92,4 +92,5 @@ GitHub优秀项目搜集(集合版)，长期更新
 库名 | 简述 | Stars
 ---- | ----- | ---
 [interview_internal_reference](https://github.com/0voice/interview_internal_reference) | 2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。 | ![GitHub stars](https://img.shields.io/github/stars/0voice/interview_internal_reference.svg)
+[tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated interview preparation materials for busy engineers | ![GitHub stars](https://img.shields.io/github/stars/yangshun/tech-interview-handbook.svg)
 

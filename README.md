@@ -40,6 +40,7 @@ GitHub优秀项目搜集(集合版)，长期更新
 [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) | 年薪百万互联网架构师课程文档及源码(公开部分) | ![GitHub stars](https://img.shields.io/github/stars/bjmashibing/InternetArchitect.svg)
 [awesome-architecture](https://github.com/toutiaoio/awesome-architecture) | 架构师技术图谱，助你早日成为架构师 | ![GitHub stars](https://img.shields.io/github/stars/toutiaoio/awesome-architecture.svg)
 [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. | ![GitHub stars](https://img.shields.io/github/stars/donnemartin/system-design-primer.svg)
+[architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) | 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充 | ![GitHub stars](https://img.shields.io/github/stars/davideuler/architecture.of.internet-product.svg)
 
 ### Android
 

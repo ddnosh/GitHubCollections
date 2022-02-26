@@ -15,6 +15,7 @@ GitHub优秀项目搜集(集合版)，长期更新
 - [数据库](#数据库)
 - [算法](#算法)
 - [面试](#面试)
+- [工具](#工具)
 
 ### 综合
 
@@ -95,3 +96,10 @@ GitHub优秀项目搜集(集合版)，长期更新
 [interview_internal_reference](https://github.com/0voice/interview_internal_reference) | 2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。 | ![GitHub stars](https://img.shields.io/github/stars/0voice/interview_internal_reference.svg)
 [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated interview preparation materials for busy engineers | ![GitHub stars](https://img.shields.io/github/stars/yangshun/tech-interview-handbook.svg)
 
+### 工具
+
+库名 | 简述 | Stars
+---- | ----- | ---
+[protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format | ![GitHub stars](https://img.shields.io/github/stars/protocolbuffers/protobuf.svg)
+[androguard](https://github.com/androguard/androguard) | Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !) | ![GitHub stars](https://img.shields.io/github/stars/androguard/androguard.svg)
+[AabResGuard](https://github.com/bytedance/AabResGuard) | 针对 aab 文件的资源混淆工具 | ![GitHub stars](https://img.shields.io/github/stars/bytedance/AabResGuard.svg)

@@ -90,6 +90,7 @@ GitHub优秀项目搜集(集合版)，长期更新
 [leetcode](https://github.com/azl397985856/leetcode) | LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) | ![GitHub stars](https://img.shields.io/github/stars/azl397985856/leetcode.svg)
 [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) | 🎆Interactive Online Platform that Visualizes Algorithms from Code) | ![GitHub stars](https://img.shields.io/github/stars/algorithm-visualizer/algorithm-visualizer.svg)
 [hello-algorithm](https://github.com/geekxh/hello-algorithm) | 🌍 针对小白的算法训练 - 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 - 附：1、千本开源电子书 2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~) | ![GitHub stars](https://img.shields.io/github/stars/geekxh/hello-algorithm.svg)
+[Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java) | ![GitHub stars](https://img.shields.io/github/stars/TheAlgorithms/Java.svg)
 
 ### 面试
 

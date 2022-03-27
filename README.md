@@ -83,6 +83,12 @@ GitHub优秀项目搜集(集合版)，长期更新
 ---- | ----- | ---
 [awesome-database-learning](https://github.com/pingcap/awesome-database-learning) | A list of learning materials to understand databases internals | ![GitHub stars](https://img.shields.io/github/stars/pingcap/awesome-database-learning.svg)
 
+### 设计模式
+
+库名 | 简述 | Stars
+---- | ----- | ---
+[java-design-patterns](https://github.com/iluwatar/java-design-patterns) | Design patterns implemented in Java) | ![GitHub stars](https://img.shields.io/github/stars/iluwatar/java-design-patterns.svg)
+
 ### 算法
 
 库名 | 简述 | Stars
